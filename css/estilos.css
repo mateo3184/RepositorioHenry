@@ -1,7 +1,28 @@
-.fondo {
-    background-color: red;
+.body {
+    background-color: chocolate;
 }
-.miTexto {
+#main {
     font-size: 80px;
-    color: green;
+    color: rgb(199, 199, 199);
+}
+.h1 {
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+}
+.h2 {
+    color: rgb(255, 255, 255);
+}
+.h3 {
+    color: rgb(44, 24, 16);
+}
+.h4 {
+    font-size: 20px;
+    color: rgb(53, 8, 10);
+}
+.p {
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+.img {
+    width: 200px;
 }
