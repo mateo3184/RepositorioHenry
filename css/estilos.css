@@ -2,7 +2,7 @@
     background-color: chocolate;
 }
 #main {
-    font-size: 80px;
+    font-size: 100px;
     color: rgb(199, 199, 199);
 }
 .h1 {
@@ -10,6 +10,7 @@
     color: rgb(255, 255, 255);
 }
 .h2 {
+    font-size: 2em;
     color: rgb(255, 255, 255);
 }
 .h3 {
@@ -24,5 +25,23 @@
     color: rgb(255, 255, 255);
 }
 .img {
-    width: 200px;
+    width: 100%;
+    
+}
+#titulos {
+    background-color: black;
+    border: 2px solid rgb(255, 255, 255);
+    width: fit-content;
+    margin: auto;
+    padding: 0px 1em 1em 1em;
+}
+.cards {
+    border: 2px solid black;
+    width: 65vw;
+    margin: auto;
+    padding: 3em;
+    border-radius: 5%;
+}
+.cards:hover {
+    background-color: crimson;
 }
